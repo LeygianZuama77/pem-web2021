@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>BIODATA MAHASISWA</title>
+</head>
+<body>
+    <!--DIBAWAH INI DATA MHS-->
+    <h1>BIODATA MAHASISWA UDINUS</h1>
+    <hr> <br>
+
+    <img src="foto.jpeg" height="50%" width="50%" alt="Ini foto Biodata">
+
+   <table>
+       <tr>
+        <td>Nama</td>
+        <td>:</td>
+        <td>Leygian Reyhan Zuama</td>
+        </tr>
+        <tr>
+            <td>NIM</td>
+            <td>:</td>
+            <td>A11.2021.13581</td>
+        </tr>
+        <tr>
+            <td>Status</td>
+            <td>:</td>
+            <td>Aktif</td>
+        </tr>
+        <tr>
+            <td>Nomor HP</td>
+            <td>:</td>
+            <td>081______</td>
+        </tr>
+        <tr>
+            <td>Alamat</td>
+            <td>:</td>
+            <td>Pekalongan</td>
+        </tr>
+        <tr>
+            <td>Kelompok Kelas</td>
+            <td>:</td>
+            <td>A11.4105</td>
+        </tr>            
+   </table>
+   <br>
+   <h2><b>KRS Schedule</b></h2>
+   <table border="11px">
+       <tr bgcolor="lightblue">
+           <th>No  </th>
+           <th>Course Code </th>
+           <th>Group</th>
+           <th>Course</th>
+           <th>SKS</th>
+           <th>Status</th>
+       </tr>
+       <tr>
+           <th>1</th>
+           <th>A11.5401 </th>
+           <th>A11.4105   </th>
+           <th>KALKULUS 1</th>
+           <th>4</th>
+           <th>B</th>
+       </tr>
+       <tr>
+           <th>2</th>
+           <th>A11.54105</th>
+           <th>A11.4105 </th>
+           <th>DASAR PEMROGRAMAN</th>
+           <th>4</th>
+           <th>B</th>
+       </tr>
+       <tr>
+           <th>3</th>
+           <th>A11.54302</th>
+           <th>A11.4105</th>
+           <th>MATEMATIKA DISKRIT</th>
+           <TH>3</TH>
+           <TH>B</TH>
+       </tr>
+       <tr>
+           <th>4</th>
+           <th>A11.54314</th>
+           <th>A11.4105</th>
+           <th>PEMROGRAMAN BERBASIS WEB</th>
+           <th>2</th>
+           <th>B</th>
+       </tr>
+       <tr>
+           <th>5</th>
+           <th>A11.54403</th>
+           <th>A11.4105</th>
+           <th>ORGANISASI DAN ARSITEKTUR KOMPUTER</th>
+           <th>3</th>
+           <th>B</th>
+       </tr>
+       <tr>
+           <th>6</th>
+           <th>AF201704</th>
+           <th>A11.4105</th>
+           <th>DASAR-DASAR KOMPUTASI</th>
+           <th>2</th>
+           <th>B</th>
+       </tr>
+       <tr>
+           <th>7</th>
+           <th>U201704</th>
+           <th>A11.4MATR</th>
+           <th>PENGANTAR TEKNOLOGI INFORMASI</th>
+           <th>2</th>
+           <th>B</th>
+       </tr>
+
+   </table>
+   
+      
+</body>
+</html>
