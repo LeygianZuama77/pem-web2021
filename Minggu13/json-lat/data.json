@@ -1,0 +1,57 @@
+[
+    {
+    "nim":"1329975",
+    "nama":"Aulia Rangga Syarif",
+    "alamat":"Bali",
+    "jurusan":"Teknik Informatika",
+    "MATKUL":[
+    {
+    "matkul_kode":"666",
+    "nama_mk":"SISTEM BASIS DATA"
+    },
+    {
+    "matkul_kode":"999",
+    "nama_mk":"ALJABAR LINIER"
+    },
+    {
+    "matkul_kode":"1412",
+    "nama_mk":"ANALISA ALGORITMA"
+    },
+    {
+    "matkul_kode":"1098",
+    "nama_mk":"KECERDASAN BUATAN"
+},
+    {
+    "matkul_kode":"105",
+    "nama_mk":"JARINGAN KOMPUTER"}
+]
+},
+{
+"nim":"1236",
+"nama":"Aulia Yanto",
+"alamat":"Tegal timur",
+"jurusan":"Sistem Informasi",
+"MATKUL":[
+{
+"matkul_kode":"301",
+"nama_mk":"ANALISA PROSES BISNIS"
+},
+{
+"matkul_kode":"302",
+"nama_mk":"DATABASE TERDISTRIBUSI"
+},
+{
+"matkul_kode":"303",
+"nama_mk":"ETIKA PROFESI"
+},
+{
+"matkul_kode":"304",
+"nama_mk":"REKAYASA WEB"
+},
+{
+"matkul_kode":"305",
+"nama_mk":"AUDIT SISTEM INFORMASI"
+}
+]
+}
+]
